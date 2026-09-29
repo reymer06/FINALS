@@ -1,7 +1,4 @@
-#include <iostream>
-#include <cstdlib>
-#include <ctime>
-
+adwadwdwaddadw
 using namespace std;
 
 string getchoiceName(int choice) {
